@@ -53,7 +53,7 @@ const Portfolio = () => {
   const personalInfo = {
     name: "Utkarsh Pandey",
     title: "Data Scientist | ML Engineer | Generative AI Enthusiast",
-    location: "Khopoli, India",
+    location: "Navi-Mumbai, India",
     email: "utkarsh.research@proton.me",
     phone: "+91 8830074491",
     github: "https://github.com/utkarsh820",
@@ -134,7 +134,7 @@ const Portfolio = () => {
             {personalInfo.title}
           </p>
           <p className="text-slate-400 leading-relaxed max-w-xl mx-auto md:mx-0">
-            Building scalable ML pipelines, fine-tuning LLMs, and bridging the gap between research and production. 
+            Building scalable ML pipelines, fine-tuning LLMs, and Experimenting with CV. 
             Based in {personalInfo.location}.
           </p>
           
