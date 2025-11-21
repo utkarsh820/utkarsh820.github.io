@@ -290,7 +290,7 @@ const Portfolio = () => {
               </div>
               <div className="p-4 bg-slate-800 border-t border-slate-700 flex justify-between items-center">
                 <span className="text-xs text-slate-500">Oct 2025</span>
-                <a href="#" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Project <ChevronRight size={14} /></a>
+                <a href="https://github.com/utkarsh820/mentopred" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Project <ChevronRight size={14} /></a>
               </div>
             </div>
 
@@ -311,7 +311,7 @@ const Portfolio = () => {
               </div>
               <div className="p-4 bg-slate-800 border-t border-slate-700 flex justify-between items-center">
                 <span className="text-xs text-slate-500">Nov 2025</span>
-                <a href="#" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Project <ChevronRight size={14} /></a>
+                <a href="https://github.com/utkarsh820/smart_customer_segmentation" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Project <ChevronRight size={14} /></a>
               </div>
             </div>
 
@@ -333,7 +333,7 @@ const Portfolio = () => {
               </div>
               <div className="p-4 bg-slate-800 border-t border-slate-700 flex justify-between items-center">
                 <span className="text-xs text-slate-500">Jun 2025</span>
-                <a href="#" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Library <ChevronRight size={14} /></a>
+                <a href="https://pypi.org/project/dshelpertool/" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Library <ChevronRight size={14} /></a>
               </div>
             </div>
 
@@ -354,7 +354,7 @@ const Portfolio = () => {
               </div>
               <div className="p-4 bg-slate-800 border-t border-slate-700 flex justify-between items-center">
                 <span className="text-xs text-slate-500">Oct 2025 - Present</span>
-                <a href="#" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Code <ChevronRight size={14} /></a>
+                <a href="https://colab.research.google.com/drive/1mpbDtIInC8TosfnjvEU_qIWjsRX-YdsR?authuser=1##scrollTo=LIlU7GIlGhm4" className="text-sm font-medium text-teal-400 hover:text-teal-300 flex items-center gap-1">View Code <ChevronRight size={14} /></a>
               </div>
             </div>
 
